@@ -8,7 +8,7 @@ package Card_Game;
 import java.util.ArrayList;
 import javafx.scene.control.ButtonType;
 import static Card_Game.Interface.askConfirmation;
-import static Card_Game.Project3_Bharadwaj.*;
+import static Card_Game.Card_Game.*;
 
 /**
  *

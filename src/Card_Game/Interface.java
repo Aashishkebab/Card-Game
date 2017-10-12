@@ -28,8 +28,8 @@ import javafx.scene.layout.BackgroundSize;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
-import static Card_Game.Project3_Bharadwaj.human;
-import static Card_Game.Project3_Bharadwaj.truncate;
+import static Card_Game.Card_Game.human;
+import static Card_Game.Card_Game.truncate;
 
 /**
  *

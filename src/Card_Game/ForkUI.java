@@ -5,7 +5,7 @@
  */
 package Card_Game;
 
-import static Card_Game.Project3_Bharadwaj.*;
+import static Card_Game.Card_Game.*;
 
 /**
  *

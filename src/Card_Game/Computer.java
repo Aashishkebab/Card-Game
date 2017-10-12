@@ -8,9 +8,9 @@ package Card_Game;
 import java.util.ArrayList;
 import java.util.Arrays;
 import javafx.application.Platform;
-import static Card_Game.Project3_Bharadwaj.discardedCards;
-import static Card_Game.Project3_Bharadwaj.freshCards;
-import static Card_Game.Project3_Bharadwaj.reshuffleDiscards;
+import static Card_Game.Card_Game.discardedCards;
+import static Card_Game.Card_Game.freshCards;
+import static Card_Game.Card_Game.reshuffleDiscards;
 
 /**
  *

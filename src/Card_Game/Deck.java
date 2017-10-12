@@ -8,7 +8,7 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Collections;
 import javafx.application.Platform;
-import static Card_Game.Project3_Bharadwaj.*;
+import static Card_Game.Card_Game.*;
 
 /**
  *
