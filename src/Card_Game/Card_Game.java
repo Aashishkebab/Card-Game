@@ -54,8 +54,8 @@ public class Card_Game extends Application{
         try{
             new Scanner(new File("initial_run"));   //Check if the program has been run by checking a file created upon first run
         }catch(FileNotFoundException firstRun){
-            Interface.showAlertWait("Please Read...", "This project meets all extra credit requirements.",  //Display information to grader
-                    "The program has a smart computer player (AI).\nThe program uses a GUI", "INFORMATION");
+            Interface.showAlertWait("Instructions", "The goal of the game is to get four of the same value cards.",  //Display information to grader
+                    "You start by drawing a card either from New Pile or Discard Pile.\nThen you discard a card you don't want.\nThen the other player moves.", "INFORMATION");
             
             try{
                 new PrintWriter(new File("initial_run")).println("First run complete"); //Create initial_run file (the printed text won't save
