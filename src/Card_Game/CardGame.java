@@ -19,7 +19,7 @@ import javafx.stage.Stage;
  * @author Aashish Bharadwaj
  */
 
-public class Card_Game extends Application{    
+public class CardGame extends Application{    
     static Deck freshCards = new Deck(false);   //New pile, with visibility false
     static Deck discardedCards = new Deck(true);    //New pile, with visibility true
     
